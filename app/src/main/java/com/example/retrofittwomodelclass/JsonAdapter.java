@@ -65,6 +65,7 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.MyHolder> {
             capital = itemView.findViewById(R.id.capital);
             priministor=itemView.findViewById(R.id.priministor);
             population=itemView.findViewById(R.id.population);
+//diyFTygukhlij;ok'pl
 
 
             imageDisplay = itemView.findViewById(R.id.image);
