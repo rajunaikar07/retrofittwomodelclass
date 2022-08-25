@@ -15,7 +15,7 @@ public class JsonResponce {
         return countrymodelList;
     }
 
-    public void setArticlesModelList(List<Countrymodel> articlesModelList) {
+    public void setCountrymodelList(List<Countrymodel> countrymodelList) {
         this.countrymodelList = countrymodelList;
     }
 }

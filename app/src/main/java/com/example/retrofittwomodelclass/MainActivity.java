@@ -77,7 +77,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-                       DetailsModel detailsModel = new DetailsModel(countrymodel1.getDetailsModel().getPrimeMinister(),countrymodel1.getDetailsModel().getPopulation());
+                       DetailsModel detailsModel = new DetailsModel(countrymodel1.getDetailsModel().getPrimeMinister(),
+                               countrymodel1.getDetailsModel().getPopulation());
 
 //                        articlesModel = new ArticlesModel(title1,desc,image1,publishAt1,sourceDetails);
 
